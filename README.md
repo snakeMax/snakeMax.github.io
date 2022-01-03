@@ -1,3 +1,3 @@
 # snakeMax.github.io
 
-*This wilø be my portfolio website*
+*This will be my portfolio website*
